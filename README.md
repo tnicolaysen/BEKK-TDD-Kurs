@@ -14,6 +14,8 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 
 ## Del 1: Bowling Kata
 
+### [Presentasjon](https://drive.google.com/open?id=0B9c7hhH1egrrbzBsN091RDI5YkE&authuser=0)
+
 ### [Last ned ZIP-fil med startkode](https://github.com/EsbenAarz/bekk-bowlingkata/archive/master.zip)
 Om du kan bruke git kan du clone repositoriet her: https://github.com/EsbenAarz/bekk-bowlingkata
 

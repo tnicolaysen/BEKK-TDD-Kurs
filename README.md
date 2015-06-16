@@ -38,6 +38,9 @@ Utfyllende regler: https://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring
 
 git repo: https://github.com/tnicolaysen/BEKK-TDD-Kurs/tree/enterprisebowling
 
+
+### [Presentasjon Del 2](https://drive.google.com/file/d/0B9c7hhH1egrrRF9mdnJRMzNFOFk/view?usp=sharing)
+
 ### Tips
 
 ```java

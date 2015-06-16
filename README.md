@@ -25,7 +25,10 @@ Om du kan bruke git kan du clone repositoriet her: https://github.com/EsbenAarz/
 * Bruk standardvalg gjennom guiden.
 * `⌘+N` / `CTRL+N` etterfulgt av å skrive inn BGT (BowlingGameTest). Enter. 
 * Deretter `SHIFT+F10` Enter for å kjøre testen. 
- 
+
+Utfyllende regler: https://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring 
+
+
 ### [Alternativ Kata](http://nimblepros.com/media/36760/supermarket%20pricing%20kata.pdf)
 + Nye krav som kommer etterhvert!
 

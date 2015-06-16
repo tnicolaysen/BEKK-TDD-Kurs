@@ -34,7 +34,9 @@ Utfyllende regler: https://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring
 
 ## Del 2: Enterprise Bowling System
 
-### [Last ned ZIP-fil med startkode](TODO)
+### [Last ned ZIP-fil med startkode](https://github.com/tnicolaysen/BEKK-TDD-Kurs/archive/enterprisebowling.zip)
+
+git repo: https://github.com/tnicolaysen/BEKK-TDD-Kurs/tree/enterprisebowling
 
 ### Tips
 
